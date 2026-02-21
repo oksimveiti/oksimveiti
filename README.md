@@ -21,7 +21,7 @@
   - Currently building a language exam preparation SaaS platform
   - I write about software on [Medium](https://medium.com/@semihcettin)
   - Reach me on [LinkedIn](https://www.linkedin.com/in/semih-cetin-b531bb6a/)
-  - Open to junior Java backend roles in Vancouver
+  - Open to junior Java backend roles
 
   ---
 
@@ -46,11 +46,3 @@
   | [AI Job Board](https://github.com/oksimveiti/AiJob-Board) | AI-powered job board with LLM resume analysis | TypeScript · Node.js · Prisma |
   | [Book Club Plus](https://github.com/oksimveiti/bookclub-plus) | RESTful API for managing book club communities | Java · Spring Boot · REST API |
 
-  ---
-
-  ### GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=oksimveiti&show_icons=true&theme=default&hide_border=true" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksimveiti&layout=compact&theme=default&hide_border=true" height="165" />
-  </p>
