@@ -18,7 +18,7 @@
   reliable, well-structured Java applications. I enjoy designing clean
   REST APIs and working with Spring Boot to solve real-world problems.
 
-  - Currently building a language exam preparation SaaS platform
+  - Currently building an app for reducing food waste: http://eno2xg199sjftoxq0cvhgm6t.135.181.149.217.sslip.io/
   - I write about software on [Medium](https://medium.com/@semihcettin)
   - Reach me on [LinkedIn](https://www.linkedin.com/in/semih-cetin-b531bb6a/)
   - Open to junior Java backend roles
