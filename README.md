@@ -17,6 +17,7 @@
   I'm a backend developer based in **Vancouver, BC** focused on building
   reliable, well-structured Java applications. I enjoy designing clean
   REST APIs and working with Spring Boot to solve real-world problems.
+  Before transitioning to software development, I spent 7 years in humanitarian organizations working with technical teams, SQL databases, and data systems. I bring a real-world problem-solving perspective to backend development.
 
   - Currently building an app for reducing food waste: http://eno2xg199sjftoxq0cvhgm6t.135.181.149.217.sslip.io/
   - I write about software on [Medium](https://medium.com/@semihcettin)
